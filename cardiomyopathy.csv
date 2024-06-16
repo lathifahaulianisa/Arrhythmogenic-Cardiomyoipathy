@@ -1,0 +1,59 @@
+Subject,ClinicalGroup,Sex,Age,Mutated gene,RadialStrainPCA1,CircumfStrainPCA1,LongStrainPCA1,ClusteringGroup
+1,Controls,F,63,-,20.37,-7.6,-6.18,Control
+2,Controls,F,75,-,10.62,-5.39,-4.87,Control
+3,Controls,M,60,-,19.02,-6.94,-5.74,Control
+4,Controls,M,59,-,16.34,-7.05,-5.7,Control
+5,Controls,F,50,-,21.46,-7.69,-6.51,Control
+6,Controls,F,21,-,16.64,-7.26,-5.77,Control
+7,Controls,F,25,-,11.46,-6.05,-5.54,Control
+8,Controls,F,67,-,15.12,-6,-4.1,Control
+9,Controls,M,32,-,20.02,-7.65,-6.44,Control
+10,Controls,F,49,-,11.27,-5.51,-5.44,Control
+11,Controls,F,48,-,11.33,-6.27,-5.74,Control
+12,Controls,M,67,-,13.48,-6.29,-4.91,Control
+13,Controls,F,62,-,8.31,-5.18,-5.73,Control
+14,Controls,M,29,-,13.74,-6.99,-5.47,Control
+15,Controls,M,29,-,8.83,-4.76,-4.42,Control
+16,Controls,F,62,-,13.89,-6.42,-5.57,Control
+17,Controls,M,35,-,10.85,-6.26,-5.57,Control
+18,Controls,M,56,-,12.43,-5.2,-4.6,Control
+19,Controls,M,33,-,11.39,-5.71,-4.94,Control
+20,Controls,F,39,-,15.13,-6.32,-5.55,Control
+21,Controls,F,76,-,20.45,-7.33,-5.64,Control
+22,Controls,F,48,-,11.52,-6.09,-5.5,Control
+23,Controls,M,56,-,10.29,-4.89,-3.22,Control
+24,AC-LV,F,40,DSP ,5.28,-3.77,-4.41,AC-LV Low Strain
+25,AC-LV,F,48,DSP,5.66,-4.2,-3.89,AC-LV Low Strain
+26,AC-LV,F,62,DSP ,5.93,-3.66,-3.38,AC-LV Low Strain
+27,AC-LV,F,43,DSP ,10.2,-4.72,-4.33,AC-LV Normal Strain
+28,AC-LV,M,35,DSP ,8.25,-4.99,-4.83,AC-LV Normal Strain
+29,AC-LV,M,30,DSP ,5.57,-3.86,-3.58,AC-LV Low Strain
+30,AC-LV,M,31,DSP ,10.45,-5.93,-5.44,AC-LV Normal Strain
+31,AC-LV,M,75,FLC,13.97,-5.62,-4.34,AC-LV Normal Strain
+32,AC-LV,M,31,DSP ,10.47,-5.15,-4.14,AC-LV Normal Strain
+33,AC-LV,F,60,DSP ,13.9,-6.2,-5.6,AC-LV Normal Strain
+34,AC-LV,M,61,DSP ,4.5,-3.23,-2.8,AC-LV Low Strain
+35,AC-LV,F,45,DSP ,10.21,-4.89,-4.93,AC-LV Normal Strain
+36,AC-LV,M,15,DSP ,11.86,-6.83,-5.4,AC-LV Normal Strain
+37,AC-LV,M,21,DES ,6.59,-3.66,-3.25,AC-LV Low Strain
+38,AC-LV,M,22,DSP ,12.45,-6.2,-4.19,AC-LV Normal Strain
+39,AC-LV,M,13,DSP ,6.1,-4.14,-4.05,AC-LV Low Strain
+40,AC-LV,M,51,DSP ,12.61,-5.79,-5.06,AC-LV Normal Strain
+41,AC-LV,F,17,DSP ,7.75,-5.06,-4.45,AC-LV Normal Strain
+42,AC-LV,F,58,DSP ,11.72,-5.02,-5,AC-LV Normal Strain
+43,AC-LV,F,15,DSP ,13.98,-6.39,-5.19,AC-LV Normal Strain
+44,AC-LV,F,11,DSP ,11.78,-5.54,-5.08,AC-LV Normal Strain
+45,AC-LV,M,55,PKP2,10.49,-4.88,-4.69,AC-LV Normal Strain
+46,AC-LV,F,54,DSP ,11.86,-5.46,-4.92,AC-LV Normal Strain
+47,AC-LV,M,53,DSP ,6.45,-3.41,-3.64,AC-LV Low Strain
+48,AC-LV,F,16,DSP ,10.03,-5.75,-5.07,AC-LV Normal Strain
+49,AC-LV,F,57,DSP ,14.72,-6.33,-4.85,AC-LV Normal Strain
+50,AC-LV,M,18,DSP ,9.65,-4.84,-4.42,AC-LV Normal Strain
+51,AC-LV,M,47,TMEM43,4.76,-3.12,-3,AC-LV Low Strain
+52,AC-LV,M,42,TMEM43 ,5.64,-3.26,-2.46,AC-LV Low Strain
+53,AC-LV,F,55,DSP ,3.63,-2.49,-2.25,AC-LV Low Strain
+54,AC-LV,F,27,DSP ,6.19,-3.66,-3.36,AC-LV Low Strain
+55,AC-LV,F,26,PLN,5.35,-3.37,-3.45,AC-LV Low Strain
+56,AC-LV,F,29,DSP ,6.12,-3.44,-3.35,AC-LV Low Strain
+57,AC-LV,M,60,DSP ,10.19,-5.28,-4.97,AC-LV Normal Strain
+58,AC-LV,F,62,DSP ,9.63,-5.26,-4.79,AC-LV Normal Strain
